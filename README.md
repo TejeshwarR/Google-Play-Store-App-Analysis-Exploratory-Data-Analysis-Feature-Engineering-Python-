@@ -1,0 +1,2 @@
+# Google-Play-Store-App-Analysis-Exploratory-Data-Analysis-Feature-Engineering-Python-
+This project focuses on **Exploratory Data Analysis (EDA)** and **Feature Engineering (FE)** on **Google Play Store application data** using **Python**. The objective is to analyze app characteristics such as ratings, reviews, installs, pricing, and categories to understand factors that influence app popularity and performance.
